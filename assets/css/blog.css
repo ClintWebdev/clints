@@ -1,0 +1,15 @@
+
+.cards{
+    
+    padding: 1rem;
+    background-color: white;
+    color: black;
+   
+}
+
+.description{
+    padding: 1rem .5rem;
+}
+.description ul li{
+    font-size: .9rem;
+}
